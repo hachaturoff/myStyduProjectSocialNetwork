@@ -1,0 +1,31 @@
+.post {
+
+    position: relative;
+    display: flex;
+    min-height: 80px ;
+    margin: 10px 0 10px 0;
+}
+.avaName {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.post img{
+    position: relative;
+    margin: 5px 0 0 0;
+    padding: 5px 5px 5px 0;
+    object-fit: cover;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.item {
+    position: relative;
+    margin: 5px 0 0 20px;
+    min-height: 80px;
+    min-width: 500px;
+    padding: 5px;
+    border: #b9b9b9 solid 0.5px;
+    border-radius: 10px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.05);
+}

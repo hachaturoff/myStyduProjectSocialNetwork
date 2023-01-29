@@ -1,0 +1,32 @@
+.profiledescr {
+    display: flex;
+}
+.avatar {
+    height: 200px;
+}
+.descr {
+    width: 100%;
+    margin: 0 0px 3px 20px;
+    padding: 10px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.05);
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #8d9498;
+}
+.avatar img{
+    position: relative;
+    height: 150px ;
+    margin: 5px 0 0 0;
+    padding: 5px 5px 5px 0;
+    border-radius: 40%;
+}
+.bigavatar {
+    margin: 0 0 20px 0;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+
+}
+.bigavatar img {
+    max-height: 1260px;
+}

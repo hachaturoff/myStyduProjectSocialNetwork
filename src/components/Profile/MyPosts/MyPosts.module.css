@@ -1,0 +1,17 @@
+.post {
+    position: relative;
+    padding: 10px;
+    margin: 20px 0 0 0 ;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.05);
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.posts {
+    margin: 20px 0 0 0;
+}
+.partition {
+    margin: 20px 30px;
+    width: 95%;
+    border: #d5d5d5 solid 0.2px;
+    left: 50px;
+}

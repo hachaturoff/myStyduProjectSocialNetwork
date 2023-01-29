@@ -1,0 +1,12 @@
+.side {
+    margin: 90px 10px 10px;
+    text-align: center;
+    padding: 0 0 10px 0;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.42);
+    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.12);
+}
+.friends {
+    display: flex;
+    justify-content: center
+}

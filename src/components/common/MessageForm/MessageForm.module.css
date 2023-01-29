@@ -1,0 +1,19 @@
+.sendMess {
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+}
+.field {
+    width: 80%;
+    border:  0.2px solid #919191;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.05);
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.sendMess button {
+    width: 20%;
+    background-color: #8cc1ff;
+    border: none;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.05);
+    border-radius: 10px;
+}

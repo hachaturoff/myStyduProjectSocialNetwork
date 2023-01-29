@@ -1,0 +1,10 @@
+.user {
+    /*padding: 10px 0 0 0;*/
+    /*background-color: #ffffff;*/
+    border-radius: 20px;
+    height: 700px;
+}
+.descr{
+    margin: 0 10px;
+    font-size: 25px;
+}

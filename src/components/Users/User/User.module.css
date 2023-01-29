@@ -1,0 +1,41 @@
+.wrapper {
+    display: flex;
+    margin: 10px 0;
+    padding: 10px 10px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    min-height: 150px;
+}
+.avaAndButon {
+    display: grid;
+}
+.avatar {
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.descr {
+    margin: 10px;
+    width: 20%;
+}
+/*button {*/
+/*    background-color: rgba(166, 111, 218, 0.68);*/
+/*    border-radius: 10px;*/
+/*    border: none;*/
+/*    color: white;*/
+/*    font-size: 15px;*/
+/*}*/
+.numberPage{
+    text-align: center;
+    margin: 0 auto;
+}
+span{
+    margin: 0 5px;
+}
+span a {
+    text-decoration: none;
+}
+.selectedPage {
+    font-weight: bold;
+}

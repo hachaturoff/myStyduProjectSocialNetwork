@@ -1,0 +1,13 @@
+.newPost {
+    position: relative;
+    display: flex;
+    min-height: 30px ;
+
+    margin: 10px 0px;
+}
+.newPost field {
+    width: 500px;
+}
+.newPost button {
+    margin: 0 0 0 10px;
+}

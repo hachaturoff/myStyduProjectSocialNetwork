@@ -1,0 +1,22 @@
+.personDialog {
+    margin: 0 0 0 20px;
+    text-decoration: none;
+    font-size: 17px;
+    color: #656565;
+}
+.item {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px 0 0 0;
+    /*box-shadow: inset 0px 0px 10px rgba(0,0,0,0.12);*/
+    /*background-color: rgba(238, 238, 238, 0.42);*/
+}
+.avatar img{
+    position: relative;
+    height: 60px ;
+    margin: 5px 0 0 0;
+    padding: 0px 5px 0px 0;
+    border-radius: 50%;
+}

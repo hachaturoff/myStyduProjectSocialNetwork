@@ -1,0 +1,27 @@
+.formControl {
+    width: 50%;
+}
+
+.formControl Input{
+
+    background-color: #d9e8ee;
+    border-radius: 6px;
+    border: none;
+}
+
+.formControl.error input,
+.formControl.error textarea {
+    background-color: #ff878e;
+    border: darkred 2px solid;
+
+}
+
+.formControl.error input {
+    background-color: #ff878e;
+    border: darkred 2px solid;
+
+}
+
+.formControl.error span {
+    color: red;
+}

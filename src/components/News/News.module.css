@@ -1,0 +1,7 @@
+.news {
+    padding: 10px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.05);
+    border-radius: 10px;
+    background-color: #ffffff;
+    height: 700px;
+}
